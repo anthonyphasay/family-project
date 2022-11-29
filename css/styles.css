@@ -1,0 +1,73 @@
+h1 {
+    color: white;
+    background-color: #008080;
+    padding: 1em;
+}
+
+.title-image {
+    float: left;
+  margin-right: 15px;
+  width: 450px;
+  height: 500px;
+  padding: 1.5em;
+}
+
+p {
+    padding: 1em;
+}
+
+.wrapper {
+    background-color: #008080;
+    padding: 10px;
+    color: #fff;
+  }
+
+  .wrapper2 {
+    background-color: white;
+    padding: 10px;
+    color: #fff;
+  }
+
+.korean {
+    float: right;
+  margin-left: 20px;
+  width: 600px;
+  height: 450px;
+  padding: 1em;
+}
+
+.hi {
+    padding: 1em;
+}
+
+.question {
+    font-weight: 700;
+}
+
+.filipino {
+    float: left;
+  margin-right: 10px;
+  width: 650px;
+  height: 500px;
+  padding: 0.5em;
+}
+
+.body {
+    background-color: whitesmoke;
+}
+
+.white {
+    float: right;
+  margin-left: 10px;
+  width: 600px;
+  height: 450px;
+  padding: 0.5em;
+}
+
+.paragraph {
+    font-size:large;
+}
+
+.last {
+    font-size: large;
+}
